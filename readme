@@ -1,0 +1,103 @@
+# 🚀 Space Mission Design Game
+
+An interactive space mission planning and simulation game where players take the role of a Mission Director and design spacecraft missions to explore space.
+
+## 🌌 About the Project
+
+Space Mission Design Game allows players to plan missions, configure spacecraft, select launch vehicles, manage resources, and simulate mission outcomes.
+
+The goal is to understand the challenges of space exploration through an interactive mission-control experience.
+
+## ✨ Features
+
+- 🪐 Multiple Missions – Earth Observation, Lunar Reconnaissance, Mars Pathfinder and Storm Watch.
+- 🚀 Spacecraft Configuration – Customize mission parameters and spacecraft components.
+- 🛰️ 3D Space Visualization – Explore spacecraft and planetary environments.
+- ⚡ Power Management – Configure power generation for the spacecraft.
+- 💰 Budget Management – Plan missions within available resources.
+- 📡 Mission Simulation – Simulate mission performance and unexpected events.
+- 📊 Mission Reports – View engineering checks, mission performance and final results.
+- 🌍 Interactive Mission Control Interface.
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript
+- Three.js
+- Node.js
+- Socket.IO
+- HTML5
+- CSS3
+
+## 📁 Project Structure
+
+```text
+space-mission-design-game/
+│
+├── client/
+│   ├── src/
+│   │   ├── App.jsx
+│   │   └── SpaceScene.jsx
+│   └── package.json
+│
+├── server/
+│
+└── README.md
+```
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the repository
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
+
+### 2. Open the project
+
+```bash
+cd space-mission-design-game
+```
+
+### 3. Install dependencies
+
+Navigate to the client and server folders and install their dependencies:
+
+```bash
+cd client
+npm install
+```
+
+Install server dependencies separately:
+
+```bash
+cd ../server
+npm install
+```
+
+### 4. Run the application
+
+Start the backend using its configured start command, then start the frontend:
+
+```bash
+cd client
+npm run dev
+```
+
+Make sure to configure any required environment variables before starting the backend.
+
+## 📸 Screenshots
+
+Screenshots of the application will be added here.
+
+## 🎯 Project Objective
+
+To create an engaging and educational space mission simulation experience that introduces users to spacecraft design, mission planning, engineering constraints and space exploration.
+
+## 👩‍💻 Developed With
+
+Built as a space exploration and mission simulation project.
+
+---
+
+⭐ If you find this project interesting, feel free to explore the repository!
